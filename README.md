@@ -1,4 +1,4 @@
-Skills:
+# Skills:
 - Flask | Unit testing | Dynamic routing | 
 ----------
 - Pandas | Data representation - graphing | HTML Web Scraping | Package develpoment
